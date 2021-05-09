@@ -1,0 +1,8 @@
+{
+  "name": "@dicedtomato/eslint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:diced/eslint.git",
+  "author": "diced <pranaco2@gmail.com>",
+  "license": "MIT"
+}
